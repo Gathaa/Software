@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        Profile Description
+    </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<div id="lasection">
+<body>
+<table id="tab" >
+</tr>
+<tr>
+    <th>
+        <img src="aimen.jpg" height="200" alt="x" style="border-radius: 40px;">
+    </th>
+    <th>
+        <div id="name">
+        Aimen Guedhami
+    </div>
+        <br>
+        <br>
+        <div id="spec">
+        Web Developer
+    </div>
+    </th>
+</tr>
+<tr>
+    <th id="soft">
+        Software Skills
+    </th>
+</tr>
+</table>
+<ul id="text">
+    <div id="sec1">
+    <li>HTML</li>
+    <li>JS</li>
+</div>
+<div id="sec2">
+    <li>CSS</li>
+    <li>PHP</li>
+</div>
+  </ul>
+  <form id="form" action="https://tn.linkedin.com/in/aimen-guedhami-90698423a/ar">
+    <div id="details">
+  <button type="submit" value="Submit" style="color: darkgoldenrod;" class="button"> Details</button>
+</div>
+<div id="home">
+  <button type="submit" value="Submit" style="color: darkgoldenrod; " class="button"> Back Home</button>
+</div>
+</form>
+<br>
+<div id="socialmedia">
+    <div id="facebook">
+<a href="https://www.facebook.com/Aymen.Gdhami.2069/"><img src="facebook.png" height="40" alt="x" style="border-radius: 40px;"></a>
+</div>
+<div id="twitter">
+<a href="https://twitter.com/"><img src="twitter.png" height="40" alt="x" style="border-radius: 40px;"></a>
+</div>
+</div>
+</div>
+</body>
